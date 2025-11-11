@@ -287,3 +287,25 @@ ul {
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
 }
+
+.eill6 {
+  position: absolute;
+  z-index: -1;
+  width: 550px;
+  height: 550px;
+  right: 0;
+  bottom: -140px;
+  background: var(--eill-color);
+  border-radius: 50%;
+  filter: blur(336px);
+  -webkit-filter: blur(336px);
+  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
