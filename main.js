@@ -5,7 +5,6 @@ checkVisibility = () => {
 
   heading.forEach((el) => {
     const boxTop = el.getBoundingClientRect().top;
-    console.log(boxTop);
     if (boxTop < triggerBottom) {
       el.classList.add("visible");
     } else {
