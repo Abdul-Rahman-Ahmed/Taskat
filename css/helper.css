@@ -10,7 +10,7 @@
   --font-poppins: "Poppins", sans-serif;
 
   --main-color: #adff00;
-  --ellis-color: #4be55a85;
+  --eill-color: #4be55a85;
   --white-color: #fff;
   --black-color: #000;
 }
@@ -128,7 +128,7 @@ ul {
   border-radius: 50%;
   right: 0;
   top: 100px;
-  background: var(--ellis-color);
+  background: var(--eill-color);
   filter: blur(240px);
   -webkit-filter: blur(240px);
   transform: rotate(180deg);
@@ -141,11 +141,11 @@ ul {
 
 .eill2 {
   position: absolute;
-  width: 350px;
+  width: 150px;
   height: 350px;
   border-radius: 50%;
   top: 400px;
-  background: var(--ellis-color);
+  background: var(--eill-color);
   filter: blur(240px);
   -webkit-filter: blur(240px);
   transform: rotate(180deg);
@@ -163,7 +163,7 @@ ul {
   border-radius: 50%;
   right: 0;
   top: -100px;
-  background: var(--ellis-color);
+  background: var(--eill-color);
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -184,7 +184,7 @@ ul {
   height: 522px;
   left: -261.5px;
   top: 0;
-  background: var(--ellis-color);
+  background: var(--eill-color);
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
